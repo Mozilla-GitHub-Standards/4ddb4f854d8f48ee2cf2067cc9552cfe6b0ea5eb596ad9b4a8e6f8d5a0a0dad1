@@ -1,5 +1,4 @@
-from marionette_driver import By
-from marionette_driver.marionette import HTMLElement, Marionette
+from marionette_driver.marionette import Marionette
 from time import sleep
 
 
